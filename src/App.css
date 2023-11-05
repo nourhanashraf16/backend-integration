@@ -94,6 +94,7 @@ button:hover {
   justify-content: space-between;
 }
 .addTask input {
+  color: #fff !important;
   flex: 1;
   outline: none;
   padding: 0.8rem 0.6rem;
@@ -231,7 +232,7 @@ button:hover {
 }
 .search input {
   flex: 1;
-
+  color: white;
   outline: none;
   padding: 0.8rem 0.6rem;
   border: 1px solid #e1c78f;

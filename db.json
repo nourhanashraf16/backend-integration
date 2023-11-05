@@ -1,4 +1,30 @@
 {
   "users": [],
-  "todos": []
+  "todos": [
+    {
+      "taskName": "task1",
+      "isCompleted": false,
+      "id": 1
+    },
+    {
+      "taskName": "task2",
+      "isCompleted": false,
+      "id": 2
+    },
+    {
+      "taskName": "task3",
+      "isCompleted": false,
+      "id": 3
+    },
+    {
+      "taskName": "task4",
+      "isCompleted": false,
+      "id": 4
+    },
+    {
+      "taskName": "Mai",
+      "isCompleted": false,
+      "id": 5
+    }
+  ]
 }
